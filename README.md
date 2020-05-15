@@ -8,4 +8,6 @@ https://medium.com/qiskit/untangling-quantum-teleportation-919cbd673074
 
 ## Textbooks
 Quantum Computation and Quantum Information( Michael A. Nielsen & Isaac L. Chuang)
+
+
 The Quantum Internet — A New Frontier( Peter Rhodes)
